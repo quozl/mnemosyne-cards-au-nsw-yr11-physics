@@ -1,10 +1,33 @@
-SI unit of electric charge	coulomb (C)
-coulomb (C)	SI unit of electric charge
+protons have a charge which is	positive
+electrons have a charge which is	negative
 assuming no other forces, like charges experience a force that	repels
 assuming no other forces, unlike charges experience a force that	attracts
-SI unit of potential difference	volt (V)
-volt (V)	SI unit of potential difference
+SI unit of electric charge is the	coulomb (C)
+the unit coulomb (C) is the SI unit of	electric charge
+positively charged bodies have an electron	deficiency
+negatively charged bodies have an electron	excess
+in charged bodies, a deficiency of electrons means a	positive charge
+in charged bodies, an excess of electrons means a	negative charge
+bodies can be given an electrostatic charge by	friction, contact and induction
+induction, contact, and friction may all give a body an	electrostatic charge
+an electric field is a region where an electric charge	experiences a force
+an electric charge will experiencing a force in an	electric field
+every electric charge is surrounded by an	electric field
+an electric field surrounds every	electric charge
+electric field strength at a point is defined as the	force per unit charge on a positive charge placed at the point
+the direction of the electric field strength at a point is	the direction of the force on a positive charge placed at the point
+the direction of an electric field surrounding a positive charge is	away from the charge
+the direction of an electric field surrounding a negative charge is	towards the charge
+a charge in an electric field has	electric potential energy
+a positive charge moved in the direction of an electric field has its electric potential energy	decreased
+a negative charge moved in the opposite direction to that of an electric field has its electric potential energy	decreased
+the potential difference between two points in an electric field is the change in	electric potential per coulomb when a charge moves between the two points
+SI unit of potential difference is the	volt (V)
+the unit volt (V) is the SI unit of	potential difference
 one volt is equivalent to one	joule per coulomb
-joule per coulomb	one volt is equivalent to one
+a joule per coulomb is equivalent to	one volt
+an electric current is a net movement of electric charge under the influence of	an electric field
 SI unit of current is	ampere (A)
 ampere (A)	SI unit of current is
+one ampere is equivalent to	one coulomb per second
+a coulomb per second is equivalent to	one ampere
