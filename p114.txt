@@ -1,0 +1,10 @@
+SI unit of electric charge	coulomb (C)
+coulomb (C)	SI unit of electric charge
+assuming no other forces, like charges experience a force that	repels
+assuming no other forces, unlike charges experience a force that	attracts
+SI unit of potential difference	volt (V)
+volt (V)	SI unit of potential difference
+one volt is equivalent to one	joule per coulomb
+joule per coulomb	one volt is equivalent to one
+SI unit of current is	ampere (A)
+ampere (A)	SI unit of current is
