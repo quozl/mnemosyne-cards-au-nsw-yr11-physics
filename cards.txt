@@ -1,5 +1,28 @@
+sound waves are	vibrations of particles in a medium
+propagation is the	movement of waves in a medium
+sound waves without a medium, such as a vacuum	cannot propagate
+as the frequency of a sound wave increases, so to does	the pitch
+as the amplitude of a sound wave increases, so to does	the volume, or loudness
+when a sound wave is reflected, the reflected wave is	an echo
+an echo is a sound wave that has been	reflected
+superposition is	addition of waves
+addition of waves is	superposition
+for two waves, if they are in phase it means	the wave peaks are aligned
+for two waves, if they are out of phase it means	the peaks of one wave are aligned with the troughs of the other
+combining waves that are in phase results in amplitude	increase
+combining waves that are out of phase results in amplitude	decrease
+a microphone converts a sound wave into	a varying voltage
+a sound wave can be converted into a varying voltage using a	microphone
+a speaker converts a varying voltage into	a sound wave
+a varying voltage can be converted to a sound wave using a	speaker
+an oscilloscope can be used to show a	varying voltage, from a microphone, or to a speaker
+an oscilloscope showing a wave has an x axis that represents	time
+an oscilloscope showing a wave has an y axis that represents	amplitude
+a tuning fork sound wave on an oscilloscope has the shape of a	sine-wave
+sound waves can be studied with	a microphone connected to an oscilloscope, or an app that simulates the same
 electromagnetic spectrum radiation types in increasing wavelength order are	gamma, x, ultraviolet, visible, infra-red, micro, radio
 all electromagnetic waves propagate without	a medium
+electromagnetic waves without a medium, such as a vacuum	still propagate
 speed of light in a vacuum is	3 x 10⁸ m s⁻¹
 electromagnetic waves are producted as a result of	alternating electric and magnetic fields
 wavelengths of electromagnetic waves commonly used for communication include	radio, micro, infra-red, visible, and ultraviolet
