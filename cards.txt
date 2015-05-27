@@ -1,3 +1,14 @@
+electromagnetic spectrum radiation types in increasing wavelength order are	gamma, x, ultraviolet, visible, infra-red, micro, radio
+all electromagnetic waves propagate without	a medium
+speed of light in a vacuum is	3 x 10⁸ m s⁻¹
+electromagnetic waves are producted as a result of	alternating electric and magnetic fields
+wavelengths of electromagnetic waves commonly used for communication include	radio, micro, infra-red, visible, and ultraviolet
+penetrating power of electromagnetic wave is determined by	its interaction with the materials it is incident upon
+longer wavelength electromagnetic radiation	more penetrating than shorter wavelength electromagnetic radiation
+drop-off in intensity of electromagnetic radiation is proportional to	the inverse of the square of the distance from its source
+modulation is	addition of a signal to an electromagnetic wave
+frequency modulation is	varying the frequency of an electromagnetic wave in order to add a signal
+amplitude modulation is	varying the amplitude of an electromagnetic wave in order to add a signal
 protons have a charge which is	positive
 electrons have a charge which is	negative
 assuming no other forces, like charges experience a force that	repels
