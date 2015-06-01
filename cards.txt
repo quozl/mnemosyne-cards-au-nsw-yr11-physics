@@ -62,6 +62,11 @@ one volt is equivalent to one	joule per coulomb
 a joule per coulomb is equivalent to	one volt
 an electric current is a net movement of electric charge under the influence of	an electric field
 SI unit of current is	ampere (A)
-ampere (A)	SI unit of current is
+ampere (A) is the SI unit of	current
 one ampere is equivalent to	one coulomb per second
 a coulomb per second is equivalent to	one ampere
+ohms law, in terms of resistance	r equals v on i
+ohms law, in terms of voltage	v equals r times i
+ohms law, in terms of current	i equals v on r
+ohms law, current is represented by the letter	i
+ohms law, the letter i represents	current
